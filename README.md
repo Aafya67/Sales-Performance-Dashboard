@@ -1,10 +1,10 @@
-# 📊 Sales Performance Dashboard
+# Sales Performance Dashboard
 
-## 📌 Project Overview
+##  Project Overview
 
 This project is an interactive Power BI dashboard built using the Superstore Sales dataset. It provides insights into sales performance, product performance, customer segmentation, and regional trends to support business decision-making.
 
-## 🎯 Objectives
+## Objectives
 
 - Analyze overall sales and profit performance.
 - Identify top-performing products and categories.
@@ -12,14 +12,14 @@ This project is an interactive Power BI dashboard built using the Superstore Sal
 - Track monthly sales performance.
 - Build an interactive dashboard using Power BI.
   
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - Power BI
 - Power Query
 - DAX
 - Microsoft Excel
 
-## 📈 Dashboard Pages
+##  Dashboard Pages
 
 ### 1. Executive Sales Dashboard
 - Total Sales
@@ -43,7 +43,7 @@ This project is an interactive Power BI dashboard built using the Superstore Sal
 - Top 10 States by Sales
 - Monthly Sales Trend by Region
 
-## 💡 Key Insights
+##  Key Insights
 
 - The West region generated the highest sales.
 - The Consumer segment contributed the largest share of sales.
@@ -51,7 +51,7 @@ This project is an interactive Power BI dashboard built using the Superstore Sal
 - A small number of states generated a significant portion of total revenue.
 - Sales showed varying trends across different regions over time.
 
-## 📚 Skills Demonstrated
+##  Skills Demonstrated
 
 - Data Cleaning
 - Data Transformation
@@ -63,7 +63,7 @@ This project is an interactive Power BI dashboard built using the Superstore Sal
 - Data Visualization
 - Business Insights
 
-## 📁 Project Files
+## Project Files
 
 - Sales Dashboard.pbix
 - Dashboard Preview.pdf
